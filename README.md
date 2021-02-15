@@ -1,2 +1,2 @@
 # SwiftUI-Roulette
-A roulette mad in SwiftUI
+A roulette made in SwiftUI
